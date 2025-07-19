@@ -3,7 +3,7 @@
   <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/assets/banner.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Aalekh</h1>
 
 <p align="center">
   Aspiring Data Scientist | SQL • Python • Excel • Power BI | Lifelong Learner
